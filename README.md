@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CFbots
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @CFbots from Cornell Tech
+- 👀 I’m interested in data analysis / data science
+- 🌱 I’m currently learning applied machine learning
 - 📫 How to reach me e-mail: chifengiris@gmail.com
 
 <!---
