@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @CFbots from Cornell Tech
-- 👀 I’m interested in data analysis / data science
-- 🌱 I’m currently learning applied machine learning
+- 👋 Hi, I’m @CFbots a junior software developer 
+- 🌱 I’m currently learning web development and UI design
 - 📫 How to reach me e-mail: chifengiris@gmail.com
 
 <!---
