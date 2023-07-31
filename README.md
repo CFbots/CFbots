@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CFbots a junior software developer 
+- 👋 Hi, I’m @CFbots a software developer 
 - 🌱 I’m currently learning web development and UI design
 - 📫 How to reach me e-mail: chifengiris@gmail.com
 
